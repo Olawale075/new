@@ -1,1 +1,2 @@
+packge main
 func main()
