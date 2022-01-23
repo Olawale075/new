@@ -1,2 +1,2 @@
 packge main
-func main()
+func main(){}
